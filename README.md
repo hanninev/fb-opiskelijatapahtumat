@@ -1,4 +1,4 @@
-**HUOM: Tämä repo on kopio alkuperäisestä reposta ennen kuin projekti vaihtoi suuntaa. Tämä repo näyttää, miltä projekti näyttä siinä vaiheessa, kun ideana oli hakea tapahtumat Facebookista.**
+**HUOM: Tämä repo on kopio alkuperäisestä reposta ennen kuin projekti vaihtoi suuntaa. Tämä repo näyttää, miltä projekti näytti siinä vaiheessa, kun ideana oli hakea tapahtumat Facebookista.**
 
 # Fb-opiskelijatapahtumat
 Harjoitustyön aiheena oli tehdä kalenterisovellus, josta näkee yhdelllä vilkaisulla kaikki kunkin viikon opiskelijatapahtumat. Tiedot haetaan ainejärjestöjen ja osakuntien Facebook-sivuilta käyttäen Facebookin APIa.
