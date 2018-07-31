@@ -5,8 +5,6 @@ Kalenterisovellus, josta näkee yhdelllä vilkaisulla kaikki kunkin viikon opisk
 
 [Linkki sovellukseen](http://fb-opiskelijatapahtumat.herokuapp.com)
 
-[Käyttöohjeet](https://github.com/hanninev/fb-opiskelijatapahtumat/blob/master/Kayttoohjeet.md)
-
 [Backendin repo](https://github.com/hanninev/fb-opiskelijatapahtumat-backend)
 
 
